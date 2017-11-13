@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Practica1UD1PMDM</string>
-    <string name="nombre">Carlos Pérez González</string>
+    <string name="nombre" translatable="false">Carlos Pérez González</string>
     <string name="curso">2º DAM</string>
+    <string name="traduccion">Probando Editor de Traduccion</string>
 </resources>
